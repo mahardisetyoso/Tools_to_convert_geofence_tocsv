@@ -1,5 +1,4 @@
 geopandas==0.13.0
-regex==2.2.1
 folium==0.14.0
 streamlit==1.23.1
 streamlit_folium
